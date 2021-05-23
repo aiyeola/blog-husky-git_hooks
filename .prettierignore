@@ -1,0 +1,4 @@
+/dist
+/coverage
+
+# include any folder you want prettier to ignore formatting for 
